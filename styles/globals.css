@@ -1,0 +1,41 @@
+:root {
+  --primary-color: #1260cc;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: "Arial", sans-serif;
+  background-color: rgb(35, 35, 35);
+  color: #999;
+}
+
+h1, h2, h3, h4 {
+  color: #ffff;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color:  #fff;
+  text-decoration: none;
+}
+
+p {
+  margin: 0.5rem 0;
+}
+
+
+
